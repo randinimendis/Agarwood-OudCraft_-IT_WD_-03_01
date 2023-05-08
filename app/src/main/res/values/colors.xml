@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="qwcolorPrimary">#6200EE</color>
+    <color name="qecolorPrimaryDark">#3700B3</color>
+    <color name="qwcolorAccent">#03DAC5</color>
+    <color name="email">#c0f6f3</color>
+    <color name="pw">#c0f6f3</color>
+    <color name="qwlogin">#1db7ae</color>
+
+    <color name="sincolorPrimary">#6200EE</color>
+    <color name="sigcolorPrimaryDark">#3700B3</color>
+    <color name="sigcolorAccent">#03DAC5</color>
+    <color name="Name">#c0f6f3</color>
+    <color name="Email">#c0f6f3</color>
+    <color name="PW">#c0f6f3</color>
+    <color name="Cpw">#c0f6f3</color>
+    <color name="SignUp">#1db7ae</color>
+
+    <color name="dacolorPrimary">#6200EE</color>
+    <color name="dacolorPrimaryDark">#3700B3</color>
+    <color name="dacolorAccent">#03DAC5</color>
+    <color name="top">#4CB777</color>
+    <color name="bottom">#9DD89F</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="imageView">#4CB777</color>
+    <color name="button1">#FFEB3B</color>
+    <color name="button2">#FFEB3B</color>
+
+
+
+    <color name="bupurple_200">#FFBB86FC</color>
+    <color name="bupurple_500">#FF6200EE</color>
+    <color name="bupurple_700">#FF3700B3</color>
+    <color name="buteal_200">#FF03DAC5</color>
+    <color name="buteal_700">#FF018786</color>
+    <color name="bublack">#FF000000</color>
+    <color name="buwhite">#FFFFFFFF</color>
+    <color name="background_color">#e5fce5</color>
+    <color name="butn">#FFEB3B</color>
+    <color name="gre_box_color">#4CB777</color>
+
+
+    <color name="schpurple_200">#FFBB86FC</color>
+    <color name="schpurple_500">#FF6200EE</color>
+    <color name="schpurple_700">#FF3700B3</color>
+    <color name="schteal_200">#FF03DAC5</color>
+    <color name="schteal_700">#FF018786</color>
+    <color name="schblack">#FF000000</color>
+    <color name="schwhite">#FFFFFFFF</color>
+    <color name="yellowbotton">#FFFB3B</color>
+    <color name="correctbotton">#FFFB3B</color>
+    <color name="Cancelbotton">#F44336</color>
+    <color name="cancelbotton2">#f44336</color>
+    <color name="background2">#e5fce5</color>
+    <color name="background1">#e5fce5</color>
+
+
+    <color name="paypurple_200">#FFBB86FC</color>
+    <color name="paypurple_500">#FF6200EE</color>
+    <color name="paypurple_700">#FF3700B3</color>
+    <color name="payteal_200">#FF03DAC5</color>
+    <color name="payteal_700">#FF018786</color>
+    <color name="payblack">#FF000000</color>
+    <color name="paywhite">#FFFFFFFF</color>
+    <color name="process">#FFEB3B</color>
+    <color name="ok">#FFEB3B</color>
+    <color name="download">#FFFFFF</color>
+    <color name="greenbox">#4CB777</color>
+    <color name="mainbox">#ffffff</color>
+
+    <color name="cpurple_200">#FFBB86FC</color>
+    <color name="cpurple_500">#FF6200EE</color>
+    <color name="cpurple_700">#FF3700B3</color>
+    <color name="cteal_200">#FF03DAC5</color>
+    <color name="cteal_700">#FF018786</color>
+    <color name="cblack">#FF000000</color>
+    <color name="cwhite">#FFFFFFFF</color>
+    <color name="confirm">#FFEB3B</color>
+    <color name="cgreenbox">#4CB777</color>
+    <color name="cmainbox">#E1E1E1</color>
+    <color name="box1">#ffffff</color>
+    <color name="box2">#ffffff</color>
+    <color name="box3">#ffffff</color>
+    <color name="box4">#ffffff</color>
+
+    <color name="propurple_200">#FFBB86FC</color>
+    <color name="propurple_500">#FF6200EE</color>
+    <color name="propurple_700">#FF3700B3</color>
+    <color name="proteal_200">#FF03DAC5</color>
+    <color name="proteal_700">#FF018786</color>
+    <color name="problack">#FF000000</color>
+    <color name="prowhite">#FFFFFFFF</color>
+    <color name="AddcardButoonpp">#FFEB3B</color>
+    <color name="deletebuttoonpp">#ff0000</color>
+</resources>

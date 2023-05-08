@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textView8">26sp</dimen>
+    <dimen name="textView9">22sp</dimen>
+    <dimen name="textView10">24sp</dimen>
+    <dimen name="textView11">24sp</dimen>
+
+    <dimen name="textView12">24sp</dimen>
+    <dimen name="textView14">24sp</dimen>
+    <dimen name="textView15">24sp</dimen>
+    <dimen name="textView16">24sp</dimen>
+
+    <dimen name="sigtextView12">24sp</dimen>
+    <dimen name="sigtextView14">24sp</dimen>
+    <dimen name="sigtextView15">24sp</dimen>
+    <dimen name="sigtextView16">24sp</dimen>
+    <dimen name="textView17">24sp</dimen>
+    <dimen name="textView18">24sp</dimen>
+
+    <dimen name="textview">22sp</dimen>
+    <dimen name="textView2">36sp</dimen>
+    <dimen name="textView3">20sp</dimen>
+    <dimen name="textView4">20sp</dimen>
+    <dimen name="textView5">20sp</dimen>
+    <dimen name="textView6">20sp</dimen>
+    <dimen name="textView7">20sp</dimen>
+    <dimen name="datextView8">20sp</dimen>
+    <dimen name="datextView9">16sp</dimen>
+
+    <dimen name="textView">34sp</dimen>
+    <dimen name="comtextView3">24sp</dimen>
+    <dimen name="comtextView2">20sp</dimen>
+    <dimen name="comtextView4">25sp</dimen>
+    <dimen name="comtextView5">20sp</dimen>
+    <dimen name="comtextView6">20sp</dimen>
+    <dimen name="comtextView7">20sp</dimen>
+    <dimen name="comdi">25sp</dimen>
+
+    <dimen name="c2textView">34sp</dimen>
+    <dimen name="c2textView2">30sp</dimen>
+
+
+
+    <dimen name="butextView8">26sp</dimen>
+    <dimen name="butextView9">22sp</dimen>
+    <dimen name="butextView10">24sp</dimen>
+    <dimen name="butextView11">24sp</dimen>
+
+    <dimen name="butextView12">24sp</dimen>
+    <dimen name="butextView14">24sp</dimen>
+    <dimen name="butextView15">24sp</dimen>
+    <dimen name="butextView16">24sp</dimen>
+
+    <dimen name="busigtextView12">24sp</dimen>
+    <dimen name="busigtextView14">24sp</dimen>
+    <dimen name="busigtextView15">24sp</dimen>
+    <dimen name="busigtextView16">24sp</dimen>
+    <dimen name="butextView17">24sp</dimen>
+    <dimen name="butextView18">24sp</dimen>
+
+    <dimen name="butextview">22sp</dimen>
+    <dimen name="butextView2">36sp</dimen>
+    <dimen name="butextView3">20sp</dimen>
+    <dimen name="butextView4">20sp</dimen>
+    <dimen name="butextView5">20sp</dimen>
+    <dimen name="butextView6">20sp</dimen>
+    <dimen name="butextView7">20sp</dimen>
+    <dimen name="budatextView8">20sp</dimen>
+    <dimen name="budatextView9">16sp</dimen>
+
+    <dimen name="butextView">34sp</dimen>
+    <dimen name="bucomtextView3">24sp</dimen>
+    <dimen name="bucomtextView2">20sp</dimen>
+    <dimen name="bucomtextView4">25sp</dimen>
+    <dimen name="bucomtextView5">20sp</dimen>
+    <dimen name="bucomtextView6">20sp</dimen>
+    <dimen name="bucomtextView7">20sp</dimen>
+    <dimen name="bucomdi">25sp</dimen>
+
+    <dimen name="buc2textView">34sp</dimen>
+    <dimen name="buc2textView2">30sp</dimen>
+
+    <dimen name="Mainheader">34sp</dimen>
+    <dimen name="Mainheadersub">14sp</dimen>
+    <dimen name="Aimtext">14sp</dimen>
+    <dimen name="Q1">14sp</dimen>
+    <dimen name="Q2">14sp</dimen>
+    <dimen name="Q3">14sp</dimen>
+    <dimen name="Q4">14sp</dimen>
+    <dimen name="page1redbotton">14sp</dimen>
+    <dimen name="page1yellowbotton">14sp</dimen>
+    <dimen name="Maintitle2">34sp</dimen>
+    <dimen name="subMaintitle">14sp</dimen>
+    <dimen name="R1">14sp</dimen>
+    <dimen name="R2">14sp</dimen>
+    <dimen name="R4">12sp</dimen>
+    <dimen name="R5">14sp</dimen>
+    <dimen name="R6">12sp</dimen>
+    <dimen name="R7">14sp</dimen>
+    <dimen name="R8">12sp</dimen>
+    <dimen name="cancel2">14sp</dimen>
+    <dimen name="yellow2">14sp</dimen>
+
+    <dimen name="heading1">34sp</dimen>
+    <dimen name="name">16sp</dimen>
+    <dimen name="entername">18sp</dimen>
+    <dimen name="email">16sp</dimen>
+    <dimen name="enterEmail">18sp</dimen>
+    <dimen name="cardAccepted">16sp</dimen>
+    <dimen name="nameOnCard">16sp</dimen>
+    <dimen name="enterNameCard">18sp</dimen>
+    <dimen name="cardNumber">16sp</dimen>
+    <dimen name="enterCardnum">18sp</dimen>
+    <dimen name="year">16sp</dimen>
+    <dimen name="cvv">16sp</dimen>
+    <dimen name="entercvv">18sp</dimen>
+    <dimen name="enteryear">18sp</dimen>
+    <dimen name="button">16sp</dimen>
+    <dimen name="Ts">34sp</dimen>
+    <dimen name="ammount">24sp</dimen>
+    <dimen name="to">20sp</dimen>
+    <dimen name="printName">20sp</dimen>
+    <dimen name="printNum">20sp</dimen>
+    <dimen name="dButton">16sp</dimen>
+    <dimen name="okbutton">16sp</dimen>
+
+    <dimen name="headding">34sp</dimen>
+    <dimen name="addCard">20sp</dimen>
+    <dimen name="NameOnCard">20sp</dimen>
+    <dimen name="EnterName">16sp</dimen>
+    <dimen name="EnterNum">16sp</dimen>
+    <dimen name="CardNum">20sp</dimen>
+    <dimen name="Cvv">20sp</dimen>
+    <dimen name="enterCVV">16sp</dimen>
+    <dimen name="EnterYear">16sp</dimen>
+    <dimen name="ExpYr">20sp</dimen>
+    <dimen name="Confirm">16sp</dimen>
+</resources>

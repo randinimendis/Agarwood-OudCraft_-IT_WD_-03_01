@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Finally"
+        tools:targetApi="31">
+        <activity
+            android:name=".EditComQuestion"
+            android:exported="false"
+            android:noHistory="true"/>
+        <activity
+            android:name=".ViewAllQuestions"
+            android:exported="false" />
+        <activity
+            android:name=".ViewComQuestion"
+            android:exported="false" />
+        <activity
+            android:name=".EditSallsItem"
+            android:exported="false"
+            android:noHistory="true"/>
+        <activity
+            android:name=".profile"
+            android:exported="false" />
+        <activity
+            android:name=".addcart"
+            android:exported="false" />
+        <activity
+            android:name=".payementconfirmationsilp"
+            android:exported="false" />
+        <activity
+            android:name=".payementmethod"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateSchedule"
+            android:exported="false"
+            android:noHistory="true"/>
+        <activity
+            android:name=".viewschdul"
+            android:exported="false" />
+        <activity
+            android:name=".scheduleshow"
+            android:exported="false" />
+        <activity
+            android:name=".schedule"
+            android:exported="false" />
+        <activity
+            android:name=".iteamveiew"
+            android:exported="false" />
+        <activity
+            android:name=".sells_iteam"
+            android:exported="false" />
+        <activity
+            android:name=".sells"
+            android:exported="false" />
+        <activity
+            android:name=".buyiteam"
+            android:exported="false" />
+        <activity
+            android:name=".communitypagetwo"
+            android:exported="false" />
+        <activity
+            android:name=".community"
+            android:exported="false" />
+        <activity
+            android:name=".itemeadd"
+            android:exported="false"
+            android:noHistory="true"/>
+        <activity
+            android:name=".buyandsell"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".newspage"
+            android:exported="false" />
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".welcompage"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".aboutus"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter></activity>
+    </application>
+
+</manifest>

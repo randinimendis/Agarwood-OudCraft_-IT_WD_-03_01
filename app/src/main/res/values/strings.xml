@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">finally</string>
+    <string name="textView8">Welcome to OudCraft</string>
+    <string name="textView9">We have many features such as  Learning,One place for Buy And sell  for you in this app.Enjoy the App</string>
+    <string name="textView10">Login</string>
+    <string name="textView11">SignUp</string>
+    <string name="qwapp_name">project48</string>
+    <string name="textView12">Login to your Account</string>
+    <string name="textView14">Your Email</string>
+    <string name="textView15">Password</string>
+    <string name="sigtextView16">Login</string>
+    <string name="sigtextView12">SignUp</string>
+    <string name="sigtextView14">Enter Your Name</string>
+    <string name="sigtextView15">Enter Your Email</string>
+    <string name="textView16">Password</string>
+    <string name="textView17">Confirm Password</string>
+    <string name="textView18">SignUp</string>
+
+    <string name="textView">Hi Jimmy</string>
+    <string name="textView2">Good Evening</string>
+    <string name="textView3">Schedules</string>
+    <string name="textView4">Buy/Sell</string>
+    <string name="textView5">Diary</string>
+    <string name="textView6">News</string>
+    <string name="textView7">Community</string>
+    <string name="dastextView8">Profile</string>
+    <string name="dastextView9">Untill</string>
+    <string name="dastextView10">13 March -30 March</string>
+    <string name="dastextView11">40%</string>
+    <string name="dastextView12" />
+    <string name="dashtexprofile">Profile</string>
+    <string name="dashtex">About us</string>
+
+
+    <string name="comtextView">Community</string>
+
+    <string name="textview2">Need help? We\'ve got answers! Search, browse, or ask a question.</string>
+    <string name="button1">Add Question</string>
+    <string name="button2">Ask Community</string>
+    <string name="comtextView4">Trending posts</string>
+    <string name="textview5">Account Recovery</string>
+    <string name="comtextView6">Fogot Password</string>
+    <string name="comtextView7">Account Privacy and Security</string>
+    <string name="comm">Welcome to the OudCraft Support Community</string>
+    <string name="com2">Need help? We\'ve got answers! Search, browse, or ask a question.</string>
+    <string name="com_treanding">Trending posts</string>
+    <string name="com3">Community</string>
+
+
+    <string name="button3">Submit</string>
+    <string name="button4">Delete</string>
+    <string name="compage2">Add your Question</string>
+    <string name="comf2">Please Add your Question here!</string>
+    <string name="comfet">Community</string>
+    <string name="aboutusHotline">Hotline:  +94 117056312/+941023456 Email :   outcarpt@gmail.com</string>
+    <string name="aboutusemail">Email</string>
+
+
+    <string name="tex1">Product </string>
+    <string name="hed1"><![CDATA[Buy & Sell]]></string>
+    <string name="but1_by">BUY</string>
+    <string name="hed2">Buy</string>
+    <string name="by_tex1">Baby Agarwood Plants</string>
+    <string name="by_tex_pri1">price 10 baby plants : Rs.100,000,000</string>
+    <string name="by_but_view1">view</string>
+    <string name="by_tex_pri2">price 1 machine : Rs.20000</string>
+    <string name="by_tex2">Drill machine</string>
+    <string name="by_but_view2">View</string>
+    <string name="by_tex3">Inoculant recipe</string>
+    <string name="by_tex_pri3">price 1 machine : Rs.20000</string>
+    <string name="by_but_">View</string>
+    <string name="item_viw_1">Item View</string>
+    <string name="iteam_by_tex1">We offer you to purchase Agarwood plants grown at our Ayagama Estate which takes about 8 years to fully grow and ready to harvest. From pruning to pest control your purchased plants will be taken care by our experienced staff.  giving you the opportunity to earn a significant surplus.</string>
+    <string name="item_by_tex2">Baby Agarwood Plants</string>
+    <string name="by_iteam_buy_now">Buy Now</string>
+    <string name="sells_add_remo">Sells</string>
+    <string name="sells_up">Update item</string>
+    <string name="sells_dele">Delete item</string>
+    <string name="sells_item_iteam_add">+ Add Item</string>
+    <string name="sells_tex_1">baby plants : 10</string>
+    <string name="sells_item_pri">price  : Rs.20000</string>
+    <string name="item_buy_size">baby plants :10 </string>
+    <string name="iteam_by_plus">+</string>
+    <string name="sells_by_iteam">baby plants 10 price :100,000,000</string>
+    <string name="iteam_totle">+</string>
+    <string name="iteam_view">total price: Rs.100,000,000</string>
+    <string name="but2_sell">Sell</string>
+    <string name="but2_by">Buy</string>
+    <string name="sells_iteam">+Add item</string>
+    <string name="sells_iteam1">Baby Agarwood Plants</string>
+    <string name="sells_iteam3">price 10 baby plants : Rs.100,000,000</string>
+    <string name="sells_iteam_but1">view</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="num1" />
+
+
+    <string name="shedule1">Plant Shedules</string>
+    <string name="makecusplant">Make Your Customize Plant Schedules.</string>
+    <string name="landsize">What is the size of your land?(Perch)</string>
+    <string name="land_1">What province is the land located in?</string>
+    <string name="land_2">Type of land?</string>
+    <string name="land_4">How old are the current plants?</string>
+    <string name="land3_but1">CLEAR</string>
+    <string name="land4_but2">Submit</string>
+    <string name="plants_2">Delete</string>
+    <string name="land_3">Update Information</string>
+    <string name="recoplant">Recommented plants are : 45</string>
+    <string name="prepaland">Preparation of land,</string>
+    <string name="prepapara">The nature of preparation of land before planting depends upon topography of land, soil type and other environmental factors. The area should be cleaned and planting holes marked out at appropriate places. If the land is slopy, soil conservation methods should be adopted. If the groundwater level is high planting may be taken up in the mounds. On slopes and in areas of undulating terrain, prepare the land by contour terracing or bunding.</string>
+    <string name="spc">Spacing,</string>
+    <string name="spcpara">Adopt a spacing of 25\' x 25\' (7.5 x 7.5 m) with 175 plants/ha is ideal for tall varieties and a spacing of 8.5 x 8.5 m is optimum for hybrids. A spacing of 6.5 x 6.5 m is optimum for dwarf variety. For planting in field border as a single row, adopt 20\' spacing between plants.</string>
+    <string name="aim">This schedules helps users to grow agarwood trees sustainably.The schedules offers guidance on planting, care, and harvesting, promoting conservation.</string>
+    <string-array name="Shedulelocation">
+        <item>Western</item>
+        <item>Eastern</item>
+        <item>Southern</item>
+        <item>Central</item>
+        <item>North Western</item>
+        <item>Sabaragamuwa</item>
+        <item>North Central</item>
+        <item>Uva</item>
+        <item>Northern</item>
+    </string-array>
+    <string-array name="tyland">
+        <item>Hard ground</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="plantoldtype">
+        <item>Seeds</item>
+        <item>-1 or 1 Year</item>
+        <item>+1 Years</item>
+
+    </string-array>
+
+
+    <string name="paymentName">Full Name</string>
+    <string name="PaymentEnerName">John Deo</string>
+    <string name="PaymentEmail">Email</string>
+    <string name="EnterMail">example@example.com</string>
+    <string name="Accepted">Cards Accepted :</string>
+    <string name="PaymentNameonCard">Name on Card</string>
+    <string name="EnterCardName">John Deo</string>
+    <string name="PaymentCardNumber">Card Number</string>
+    <string name="EnterCardNo">1111-2222-3333-4444</string>
+    <string name="PaymentExpYear">Exp Year</string>
+    <string name="PaymentCVV">CVV</string>
+    <string name="EnterYear">2023</string>
+    <string name="EnterCVV">1234</string>
+    <string name="Heading">Payment</string>
+    <string name="process">Prosessed To Pay</string>
+    <string name="success">Transfer Successful!</string>
+    <string name="amount">LKR 25,000.00</string>
+    <string name="to">To</string>
+    <string name="name">Menuka Sandaruwan</string>
+    <string name="account">1111-2222-3333-4444</string>
+    <string name="download">Download Receipt</string>
+    <string name="ok">OK</string>
+
+    <string name="myfield">Add Card</string>
+    <string name="addhere">Add your debit/credit card</string>
+    <string name="cname">Name on Card</string>
+    <string name="enter_name">John deo</string>
+    <string name="cardNo">Card Number</string>
+    <string name="EnterNum">1111-2222-3333-4444</string>
+    <string name="exp">Exp Year</string>
+    <string name="enter_exp">2023</string>
+    <string name="cvv">CVV</string>
+    <string name="enterCvv">1234</string>
+    <string name="conf_button">Confirm</string>
+
+    <string name="heading_pr1">My Profile</string>
+    <string name="Name_pr_text1">Jimmy</string>
+    <string name="email_prtext2">Email</string>
+    <string name="Mobile_prtext3">Mobile</string>
+    <string name="Address_prtext4">Address</string>
+    <string name="ID_prtext5">National ID No</string>
+    <string name="updatepr">UPDATE PROFILE</string>
+    <string name="deletepr">DELETE PROFILE</string>
+    <string name="pMail">abcd1234@gmail.com</string>
+    <string name="pmobile">0771212121</string>
+    <string name="PAddress">Malabe</string>
+    <string name="PID">12345678909V</string>
+    <string name="oneC">:</string>
+    <string name="twoc">:</string>
+    <string name="threec">:</string>
+    <string name="fourC">:</string>
+    <string name="DeletebuttonAddCard">delete</string>
+    <string name="AddbuttonAddCard">Add</string>
+    <string name="AddCardPP">Add Card</string>
+    <string name="AddcardCol">:</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="hardGround">Add coco peat to hard ground. Mixing Triple Super Phosphate (TSP) will provide the needed phosphorus to the ground. Organic fertilisers like cow dung also need to be added.</string>
+    <string name="notHardGround">Organic fertilisers like cow dung also need to be added. plant the trees in sloping land.that way, the water from rainfall will not stay stagnant and flow downwards.</string>
+
+
+
+</resources>
