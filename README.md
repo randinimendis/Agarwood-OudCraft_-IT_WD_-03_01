@@ -5,7 +5,7 @@ Please go under edit and edit this file as needed for your project
 # Batch - 03.1
 ### Group Leader - IT21228094 MENDIS A.R.P.(randinimendis)
 ### Member 2 - IT21239366 Niwantha W.P.I (InoshN)
-### Member 3 - 
+### Member 3 - IT21225574 Jayasinghe J.A.J.M.(Jayyy00)
 ### Member 4 - IT21231100 Sandaruwan W.M.I.M. (ImalMS)
 
 
