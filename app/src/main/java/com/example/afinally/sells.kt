@@ -51,7 +51,7 @@ class sells : AppCompatActivity() {
 
             }
         }
-
+//delete
         binding.deleteBtn.setOnClickListener {
             databaseRef.child(id!!).removeValue().addOnCompleteListener {
                 if( it.isSuccessful){

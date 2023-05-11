@@ -49,6 +49,7 @@ class itemeadd : AppCompatActivity() {
                 }
                 Toast.makeText(this, "Enter valid details", Toast.LENGTH_SHORT).show()
             }else {
+                //create
                 var id = databaseRef.push().key!!
                 val item: ItemData =
                     ItemData(name, qty, price, dis, id, uid,)
